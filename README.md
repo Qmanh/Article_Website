@@ -11,7 +11,10 @@ Admin can add,edit,delete news and user , they can hanlde account to accept or d
 User have some roles such as comment, change password and when you click forgot password and enter your username(email) , new password will be sent to email.
 
 # Technology
-## Back-end: Spring MVC, Spring data Jpa, Spring Security
+
+    - Back-end: Spring MVC, Spring data Jpa, Spring Security
+    - Database: MYSQL
+    - Font-end: html, css, bootstrap
 
 # ERD diagram
 
