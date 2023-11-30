@@ -11,7 +11,7 @@ Admin can add,edit,delete news and user , they can hanlde account to accept or d
 User have some roles such as comment, change password and when you click forgot password and enter your username(email) , new password will be sent to email.
 
 
-# Sơ đồ ERD
+# ERD diagram
 
 ![image](https://github.com/Qmanh/Article_Website/assets/87469606/1c1c910d-54b7-4e44-b099-5e0e4c805dde)
 
